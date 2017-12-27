@@ -1,0 +1,13 @@
+Rhea Lingaiah
+rlingaia@ucsc.edu
+
+contents:
+README
+Dictionary.java
+DictionaryTest.java
+DuplicateKeyException.java
+KeyNotFoundException.java
+DictionaryInterface.java
+DicationaryClient.java
+Makefile
+
