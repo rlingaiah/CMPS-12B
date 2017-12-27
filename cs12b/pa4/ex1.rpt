@@ -1,6 +1,0 @@
-Report file: ex1.rpt
-3 Jobs:
-(2, 2, *) (3, 4, *) (5, 6, *) 
-*********************************************
-1 processor: , averageWait=0.00
-2 processors: , averageWait=0.00
